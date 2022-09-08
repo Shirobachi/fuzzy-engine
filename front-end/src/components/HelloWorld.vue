@@ -7,6 +7,7 @@ defineProps({
 })
 var awesome = ref(true)
 const count = ref(0)
+<script src="https://unpkg.com/vue-router@4"></script>
 </script>
 
 <template>
